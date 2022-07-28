@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaelbeda86
 - 👀 I’m interested in web and mobile application development.
-- 🌱 I’m currently learning front-end and back-end web technologies (full-stack development). And anything involving software development.
-- 💞️ I’m looking to collaborate on group projects and technological development at least involving programming and coding.
+- 🌱 I’m currently learning front-end and back-end web technologies (full-stack development).
+- 💞️ I’m looking to collaborate on group projects and technological development, at least involving programming and coding.
 - 📫 How to reach me.
 
 <!---
